@@ -1,5 +1,5 @@
 # list-of-WPRDC-presentations
-List of presentations given by members of the Western Pennsylvania Regional Data Center.
+A very incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
 * [Data Dojo kick-off talk: The Western Pennsylvania Regional Data Center and You](https://docs.google.com/presentation/d/1eTSFZj0Z9UctP2UfUSSKEiBBH-IYAnc5JB6gMQ5wnjk) - Given on September 11, 2017 as the opening act of the first meeting for the University of Pittsburgh's new Data Dojo club.
 * [Working in the Open: Collaborating on Civic Data Projects](https://docs.google.com/presentation/d/1k0Kq7BEUD1Kw96YhoF4mBKk66CWl4x4o7UFPKGVrILw) – Given on August 7, 2017 as part of the Pittsburgh GitHub Patchworks event. <!--The one about the PantherView project.-->
