@@ -1,6 +1,7 @@
 # list-of-WPRDC-presentations
 A very incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
+* [API Wizardry and Bitcraft: A Crash Course in Using Web APIs](https://docs.google.com/presentation/d/16c6B33NYBCB2Ri4R5-mcI4wQi7Pf4JP1lHNCNJnAB_I) - Given in Pitt's Hillman Library on September 21, 2018 as part of the Digital Scholarship Services seminar. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
 * [API Wizardry: A Crash Course in Using Web APIs](https://docs.google.com/presentation/d/19bP_khVtanOgCmoEg8qKoLjhh01rz1TFuss12MFz96E) - Given at the Code & Supply Coworking Space in Pittsburgh on June 27, 2018. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
 * [CKANconUS talk: Experiments in Data-Portalling: How the WPRDC works](https://docs.google.com/presentation/d/17jHaROZsN_X5mmxY3YwFKR04MuFboAsW7NvmmyL979U/edit?usp=sharing) - Given on May 29, 2018 as part of the first CKANcon in the U.S., held in Oakland, California.
 * [Working in the Open: Collaborating on Civic Data Projects](https://docs.google.com/presentation/d/1UIJMTAaXmLTP6smH-A2BqNpYra0vT-P7_4sB1raCdtI/edit?usp=sharing) - Given on April 6, 2018 as part of the second Pittsburgh GitHub Patchworks event.
