@@ -1,6 +1,7 @@
 # list-of-WPRDC-presentations
 A very incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
+* [API Wizardy and Bitcraft: The Abridged Version](https://docs.google.com/presentation/d/1oaYRmj878sT_hOO62GCdkjFzIg4IqrehPgotOTXe5Jg)
 * [Publishing civic data and why it’s important to the future of cities: A historical perspective](https://docs.google.com/presentation/d/1n10cZkulmzCPkb9WAVJB-FvNGB3k5BP5BABY2Q9mqYg) - Given at CMU's Entertainment Technology Center on October 6, 2018 as part of [The Resurgent City and the Future of Urban Environments](https://profuturists.wildapricot.org/event-2895835), a regional conference put on by the Association of Professional Futurists.
 * [API Wizardry and Bitcraft: A Crash Course in Using Web APIs](https://docs.google.com/presentation/d/16c6B33NYBCB2Ri4R5-mcI4wQi7Pf4JP1lHNCNJnAB_I) - Given in Pitt's Hillman Library on September 21, 2018 as part of the Digital Scholarship Services seminar. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
 * [API Wizardry: A Crash Course in Using Web APIs](https://docs.google.com/presentation/d/19bP_khVtanOgCmoEg8qKoLjhh01rz1TFuss12MFz96E) - Given at the Code & Supply Coworking Space in Pittsburgh on June 27, 2018. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
