@@ -1,7 +1,7 @@
 # list-of-WPRDC-presentations
 A very incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
-* [Mapping Your Data](https://docs.google.com/presentation/d/1c7ybp6GAXP80KioS0N3s5Rvkv1eGMysHT4hA7V1SmD8/edit#slide=id.g3f6b13f58c_0_26)
+* [Mapping Your Data](https://docs.google.com/presentation/d/1c7ybp6GAXP80KioS0N3s5Rvkv1eGMysHT4hA7V1SmD8/edit#slide=id.g3f6b13f58c_0_26) - A brief introduction to mapping for a Pitt capstone course, given on October 21, 2019.
 * [How to Use Web APIs for Collecting Data and Other Stuff: A WPRDC Workshop](https://docs.google.com/presentation/d/1jVu3kkHBwe46VpjeF8aTBTv6KGIplTKMHwn_PcLoydc/edit?usp=sharing) - Given in Pitt's Hillman Library on October 18, 2018 as part of the Digital Scholarship Services seminar. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
 * [API Wizardy and Bitcraft: The Abridged Version](https://docs.google.com/presentation/d/1oaYRmj878sT_hOO62GCdkjFzIg4IqrehPgotOTXe5Jg) - Given to Pitt's Engineering Student Council in a compressed 30-minute format on October 17, 2018.
 * [Publishing civic data and why it’s important to the future of cities: A historical perspective](https://docs.google.com/presentation/d/1n10cZkulmzCPkb9WAVJB-FvNGB3k5BP5BABY2Q9mqYg) - Given at CMU's Entertainment Technology Center on October 6, 2018 as part of [The Resurgent City and the Future of Urban Environments](https://profuturists.wildapricot.org/event-2895835), a regional conference put on by the Association of Professional Futurists.
