@@ -1,5 +1,5 @@
 # list-of-WPRDC-presentations
-A very incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
+A hopelessly incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
 * [Mapping Your Data](https://docs.google.com/presentation/d/1c7ybp6GAXP80KioS0N3s5Rvkv1eGMysHT4hA7V1SmD8/edit#slide=id.g3f6b13f58c_0_26) - A brief introduction to mapping for a Pitt capstone course, given on October 21, 2019.
 * [How to Use Web APIs for Collecting Data and Other Stuff: A WPRDC Workshop](https://docs.google.com/presentation/d/1jVu3kkHBwe46VpjeF8aTBTv6KGIplTKMHwn_PcLoydc/edit?usp=sharing) - Given in Pitt's Hillman Library on October 18, 2019 as part of the Digital Scholarship Services seminar. The accompanying repository and Jupyter notebooks for this workshop are [here](https://github.com/WPRDC/api-training).
