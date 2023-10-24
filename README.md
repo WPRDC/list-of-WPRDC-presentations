@@ -1,6 +1,8 @@
 # list-of-WPRDC-presentations
 A hopelessly incomplete list of presentations given by members of the Western Pennsylvania Regional Data Center.
 
+*[https://docs.google.com/presentation/d/1na-miSc6WHt6rFaalPAusl0wJfVeJ0nyg1UoWbsBQu0/edit?usp=sharing](https://docs.google.com/presentation/d/1na-miSc6WHt6rFaalPAusl0wJfVeJ0nyg1UoWbsBQu0/edit?usp=sharing)
+
 * [Supercharging Open Data](https://docs.google.com/presentation/d/1MDlcLFAsez1JtoftZQ4tjHnulHwgk72x-EkRM3qgL6c/edit?usp=sharing) - Given at local Wikimania talk in Pittsburgh on August 14, 2022. Emphasis on the WPRDC's work in data literacy and tool building.
 * [The Western Pennsylvania Regional Data Center and Your Final Project](https://docs.google.com/presentation/d/1uF4ZEQrRkgIOjCwFKCOea0TyDVXqRmhb7SGO3ln5v5c/edit?usp=sharing) - Given for a Pitt Data Analytics course on March 15, 2022. An updated overview of the WPRDC, its datasets, and their possible use in machine learning.
 * [Mapping Your Data](https://docs.google.com/presentation/d/1c7ybp6GAXP80KioS0N3s5Rvkv1eGMysHT4hA7V1SmD8/edit#slide=id.g3f6b13f58c_0_26) - A brief introduction to mapping for a Pitt capstone course, given on October 21, 2019.
